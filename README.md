@@ -1,6 +1,5 @@
 # C - Binary trees
 > C
-> Group project
 > Algorithm
 > Data structure
 ![](https://www.tutorialspoint.com/data_structures_algorithms/images/binary_tree.jpg)
