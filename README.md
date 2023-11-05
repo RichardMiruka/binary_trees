@@ -29,7 +29,6 @@ This project is about Binary Trees in C and other tree-type data structures.
 * [binary_tree_print.c](./binary_tree_print.c): C function that prints binary
 trees in a pretty way.
 
-
 ## Header File :file_folder:
 
 * [binary_trees.h](./binary_trees.h): Header file containing definitions and
